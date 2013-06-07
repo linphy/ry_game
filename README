@@ -1,0 +1,6 @@
+YiiTop系列
+仁域出品 基于YII框架的游戏联运平台开源
+sae版本可以在SAE上直接运行，已经测试无BUG
+
+protected\config\下的main.php为前台配置文件
+数据库的连接伪静态等在此修改

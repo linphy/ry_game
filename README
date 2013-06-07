@@ -5,3 +5,6 @@ sae版本可以在SAE上直接运行，已经测试无BUG
 密码：admin005
 protected\config\下的main.php为前台配置文件
 数据库的连接伪静态等在此修改
+
+
+官方地址：http://www.ryvip.com  论坛地址 http://bbs.ryvip.com

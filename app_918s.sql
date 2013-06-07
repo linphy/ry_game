@@ -294,4 +294,3 @@ CREATE TABLE IF NOT EXISTS `YiiLog` (
 --
 -- 转存表中的数据 `YiiLog`
 --
-
